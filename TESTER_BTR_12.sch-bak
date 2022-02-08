@@ -25,10 +25,10 @@ F 3 "~" H 6200 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female VIN
+L Connector:Conn_01x01_Female VIN1
 U 1 1 62023F5C
 P 6200 2850
-F 0 "VIN" H 6228 2876 50  0000 L CNN
+F 0 "VIN1" H 6228 2876 50  0000 L CNN
 F 1 "Conn_01x01_Female" H 6228 2785 50  0000 L CNN
 F 2 "Connector:Banana_Jack_1Pin" H 6200 2850 50  0001 C CNN
 F 3 "~" H 6200 2850 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 6200 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female GND
+L Connector:Conn_01x01_Female GND1
 U 1 1 62024483
 P 6200 2600
-F 0 "GND" H 6228 2626 50  0000 L CNN
+F 0 "GND1" H 6228 2626 50  0000 L CNN
 F 1 "Conn_01x01_Female" H 6228 2535 50  0000 L CNN
 F 2 "Connector:Banana_Jack_1Pin" H 6200 2600 50  0001 C CNN
 F 3 "~" H 6200 2600 50  0001 C CNN
@@ -47,10 +47,10 @@ F 3 "~" H 6200 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female VOUT
+L Connector:Conn_01x01_Female VOUT1
 U 1 1 62024C0B
 P 6200 2350
-F 0 "VOUT" H 6228 2376 50  0000 L CNN
+F 0 "VOUT1" H 6228 2376 50  0000 L CNN
 F 1 "Conn_01x01_Female" H 6228 2285 50  0000 L CNN
 F 2 "Connector:Banana_Jack_1Pin" H 6200 2350 50  0001 C CNN
 F 3 "~" H 6200 2350 50  0001 C CNN

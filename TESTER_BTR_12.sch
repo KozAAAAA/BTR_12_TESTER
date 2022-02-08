@@ -102,11 +102,19 @@ F 3 "~" H 4800 3100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	5000 2350 6000 2350
-Wire Wire Line
 	5000 2600 6000 2600
 Wire Wire Line
 	5000 2850 6000 2850
 Wire Wire Line
 	5000 3100 6000 3100
+Wire Wire Line
+	5000 2350 6000 2350
+Text Label 5550 2350 0    50   ~ 0
+VOUT
+Text Label 5550 2600 0    50   ~ 0
+GND
+Text Label 5550 2850 0    50   ~ 0
+VIN
+Text Label 5550 3100 0    50   ~ 0
+Q1
 $EndSCHEMATC
