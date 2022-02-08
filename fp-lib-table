@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TESTER_BTR_12)(type KiCad)(uri ${KIPRJMOD}/TESTER_BTR_12.pretty)(options "")(descr ""))
+)
